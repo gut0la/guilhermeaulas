@@ -1,0 +1,3 @@
+✅ 4 - Por que não podemos ter construtores abstract?
+Resposta:
+Construtores servem para criar objetos, mas métodos abstract não têm implementação. Logo, não faz sentido ter um construtor sem corpo — por isso não pode ser abstract.

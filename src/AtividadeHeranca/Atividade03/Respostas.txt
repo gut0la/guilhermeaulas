@@ -1,0 +1,3 @@
+✅ 3 - Por que uma classe abstrata não pode ser instanciada?
+Resposta:
+Porque ela é incompleta. Ela serve como modelo e pode ter métodos abstratos (sem corpo), que precisam ser implementados pelas subclasses.
